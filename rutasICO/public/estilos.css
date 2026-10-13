@@ -1,0 +1,11 @@
+h1{
+    color: rgb(55, 6, 88);
+    text-align: center;
+    padding: 50px;
+}
+
+/* poner color al fondo de la pagina */
+body{
+    background-color: rgb(186, 117, 117);
+    padding: 50px;
+}
